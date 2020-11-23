@@ -935,3 +935,4 @@ JavaScript error: https://map.lookingglasscyber.com/js/min.js, line 2: SyntaxErr
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1606106185173	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ANALYT~1\\AppData\\Local\\Temp\\rust_mozprofileNrTpQg"
